@@ -1,3 +1,4 @@
+//these must be placed at the beggining of the program otherwise you may face an error
 #define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME ""
 
